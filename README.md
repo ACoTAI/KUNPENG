@@ -2,7 +2,9 @@
 This is the implementation of the intelligent maritime embodied large model named KUNPENG.
 
 Subsequent updates will be coming soon.
-<img src="./kunpeng.png" width=50% height=50%>
+
+<img src="./kunpeng.png" width=70% height=70%>
+
 # Citations
 ```bibtex
 @misc{wang2024kunpengembodiedlargemodel,
