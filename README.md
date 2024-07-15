@@ -1,4 +1,4 @@
-# KUNPENG
+# [KUNPENG: An Embodied Large Model for Intelligent Maritime](https://arxiv.org/abs/2407.09048)
 This is the implementation of the intelligent maritime embodied large model named KUNPENG.
 
 Subsequent updates will be coming soon.
