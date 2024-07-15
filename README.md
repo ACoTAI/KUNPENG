@@ -8,6 +8,10 @@ Intelligent maritime, as an essential component of smart ocean construction, dee
 
 <img src="./kunpeng.png" width=70% height=70%>
 
+# KUNPENG
+Intelligent maritime of the KUNPENG embodied large model, including Perception System, Cognition System, Decision System, Behavior System, Power System, and Safe and Emergency System.
+<img src="./structure.png">
+
 # Citations
 ```bibtex
 @misc{wang2024kunpengembodiedlargemodel,
